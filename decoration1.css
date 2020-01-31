@@ -1193,8 +1193,6 @@ header a {
 #item-selected figure img {
 	height: 100%;
 	width: 100%;
-	-webkit-box-shadow: 2px 2px 15px 5px #000000;
-	box-shadow: 2px 2px 15px 5px #000000;
 	margin-top: 1rem;
 	
 
@@ -1524,7 +1522,7 @@ header a {
 }
 
 .cart_resume_details ul {
-	margin-top: 1rem;
+	margin-top: 2rem;
 	list-style: none;
 
 }
